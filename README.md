@@ -7,6 +7,9 @@ https://cdn.discordapp.com/attachments/955493557962166272/955494826391003216/unk
 # All credits goes to qbcore framework original repository: 
 https://github.com/qbcore-framework/qb-menu
 
+# our discord
+https://discord.gg/AQHbsahZsV
+
 # License
 
     QBCore Framework
