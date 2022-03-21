@@ -1,0 +1,116 @@
+/* Nice font for button from Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap");
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins", sans-serif !important;
+    font-weight: 300;
+}
+
+#container {
+    position: absolute;
+    height: auto;
+    top: 20%;
+    right: 20%;
+    border-radius: 5px;
+    background: transparent !important;
+}
+
+#buttons {
+    max-height: 75vh;
+    width: 31vw;
+    overflow-x: none;
+    overflow-y: auto;
+    padding: 10px;
+    left: 24%;
+}
+
+html,
+body {
+    background: transparent !important;
+}
+
+#buttons::-webkit-scrollbar {
+    display: none;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.button {
+    border-color: #0000;
+    width: auto;
+    max-width: 45%;
+    height: 10%;
+    background: #222222;
+    color: white;
+    margin: auto;
+    position: relative;
+    top: 10%;
+    margin-top: 0.5rem;
+    overflow: hidden;
+    padding: 0.45rem;
+    border-radius: 0.15rem;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0rem 0rem 0.1rem 0.05rem #0000007c;
+    cursor: pointer;
+    left: 24%;
+    border-color: darkred;
+}
+
+.button:hover {
+    background-color: #303030;
+}
+
+.title {
+    size: 200px;
+    font-style: italic;
+    font-size: 1.2rem;
+    font-weight: 100%;
+    width: 50%;
+    max-width: 45%;
+    height: 10%;
+    color: white;
+    margin: auto;
+    position: relative;
+    top: 10%;
+    margin-top: 0.5rem;
+    overflow: hidden;
+    padding: 0.45rem;
+    display: flex;
+    flex-direction: column;
+    left: 24%;
+}
+
+.title::after {
+    content:"";
+    position: absolute;
+    display: block;
+    left: 3px;
+    bottom: 0;
+    width: 70%;
+    height: 3px;
+    background-color: aliceblue;
+}
+
+div > .text {
+    flex-direction: column;
+    font-size: 0.75rem;
+    overflow: hidden;
+}
+
+div > .header {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: left;
+    overflow: wrap;
+    color: white;
+    font-weight: 400;
+    overflow: hidden;
+}
