@@ -1,5 +1,5 @@
 # qb-menu
-Menu System for the QBCore Framework
+Edited QBCore menu design
 
 # Preview
 ![image](https://user-images.githubusercontent.com/89866234/171046761-f86cdae0-e4d1-4c10-97e5-842d14138155.png)
