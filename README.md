@@ -2,7 +2,8 @@
 Menu System for the QBCore Framework
 
 # Preview
-https://cdn.discordapp.com/attachments/955493557962166272/955494826391003216/unknown.png
+![image](https://user-images.githubusercontent.com/89866234/171046761-f86cdae0-e4d1-4c10-97e5-842d14138155.png)
+
 
 # All credits goes to qbcore framework original repository: 
 https://github.com/qbcore-framework/qb-menu
