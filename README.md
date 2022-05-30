@@ -5,11 +5,8 @@ Menu System for the QBCore Framework
 ![image](https://user-images.githubusercontent.com/89866234/171046761-f86cdae0-e4d1-4c10-97e5-842d14138155.png)
 
 
-# All credits goes to qbcore framework original repository: 
+# Original Script:
 https://github.com/qbcore-framework/qb-menu
-
-# our discord
-https://discord.gg/AQHbsahZsV
 
 # License
 
